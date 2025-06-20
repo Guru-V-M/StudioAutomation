@@ -37,8 +37,6 @@ test.describe("Reference Data", () => {
     await page.locator("(//li[@title='File Explorer'])[1]").click();
     await page.locator("//div[@data-node-id='/projects:/projects/SampleProjects']").click();
     await page.waitForTimeout(20000);
-    await cartridgefunction.expandDirectory("studio-projects");
-    await page.waitForTimeout(20000);
     /*test("cartridge function",async()=>{
     const cartridgefunction = new CartridgeFunction(page);
 
