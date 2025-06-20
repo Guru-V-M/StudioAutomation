@@ -1,0 +1,26 @@
+
+/*
+1) UI automation path is classified as src/* and support/
+2) In the src/* test files will be Testcases will be created
+3) In the Support/* the test methods for the corresponding component will be created.
+4) Test test-case file name should start with the component name(lowercase) and it should end with "Testcase". Ex: If the testcase is regarding the messageflow
+copy-paste, then the name should be "messageflowCopyTestCase".
+5) There can be multiple test-case for a single module. The test module name should start with the module name and it should end with "Pages", Ex: for the 
+   message flow component, the folder name will be messageflowPages.
+6) The test-case file should be created the corresponding component's folder (If the test-case is about messageflow, then the file path should be messageflowPages
+--> "messageflowCopyTestCase".  
+7)  The methods created in the function file should be descriptive or it should say about the action which the test-method is created. ex: if a project is to be open
+  and the method name should openProject(camelcase). Inside the test methods, the corresponding test steps should be provided.
+8) The class name should be same as file name.
+9) Use const { test, expect } = require('@playwright/test'); at the first line of the test-case file.
+10) Use const{expect} = require('@playwright/test')
+11) Use the command "exports.className = className" at the start of the functions file.
+12) If @playwright/test is not used instead @playwright is used, then the properties of playwright test are not imported and it will throw error.
+*/
+/*
+In the Project Function line number 35 and 36 is commented due to feature update
+*/
+
+/* Selectors
+https://playwright.dev/docs/selectors
+*/

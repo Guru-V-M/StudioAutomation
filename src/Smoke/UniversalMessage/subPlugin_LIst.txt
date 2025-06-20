@@ -1,0 +1,31 @@
+S.NO	Universal Subplugin
+1	Universal
+2       ACH (NACHA) - empty message - COMPLETED
+3	BAI2 - selected Message - completed
+4	Bloomberg Back Office - empty message - completed
+5	BOJ-NET - empty message - completed
+6	CHIPS - empty message -completed
+
+8	DataScope Equities - empty message - completed..
+9	DataScope Fixed Income - empty message - completed
+10	EDI - empty message - completed
+11	Fedwire - empty message -completed
+12	NEFT - empty message - completed
+13	OASYS Global - empty message -completed
+14	IDOC - no windows -completed
+15	ITCH/OUCH -  selected message -completed
+16	NACHAM - empty -completed
+17	RTGS - empty -completed
+18	Standard005 - empty -completed
+19	UAEDDS - selected message - completed
+20	UAEFTS - selected message - completed
+21	UAEICCS - selected message -completed
+22	UAEWPS - selected message - completed
+23	X9 ICL - selected message -completed
+24	BACS - empty -completed
+25	CERTIS - empty - completed
+26	CREST - empty - completed
+27	SIC/EuroSIC - empty - completed
+28	SWISS DTA - selected message - completed
+
+ 

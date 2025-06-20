@@ -1,0 +1,13 @@
+{
+    "cartridgeName":"UniversalCart",
+    "messageName":"UniversalMessage",
+    "pluginName":"Universal",
+    "description":"Universal format is powerful flat file parser/writer that handles fixed width, delimited and tagged messages.",
+    "versionInfo":"1.0",
+    "standardName":"UniversalStandard",
+    "standardVersion":"1.0",
+    "detailedName":"UniversalDetailedName",
+    "standardGroup":"UniversalStandardGroup",
+    "typeDescription":"Test Description"
+    
+}

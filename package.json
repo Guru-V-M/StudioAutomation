@@ -1,0 +1,20 @@
+{
+  "name": "doc_ui_automation",
+  "version": "1.0.0",
+  "description": "To test the doc application",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 15000",
+    "triggerSmokeTests-headed": "npx playwright test Smoke --headed",
+    "triggerSmokeTests-headless": "npx playwright test Smoke"
+  },
+  "keywords": [],
+  "author": "doc_qa",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
